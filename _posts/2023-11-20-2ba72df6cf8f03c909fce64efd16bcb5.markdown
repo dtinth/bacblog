@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Bridging the Gap Between Development and Testing as an SDET"
+date: 2023-11-20
+---
+
+In the fast paced world of software development, the roles of development and testing are often seen as two distinct silos, leading to a disconnect that can result in delays and reduced product quality. To overcome these challenges, the emerging role of Software Development Engineer in Test, or SDET, has become crucial in bridging this gap. An SDET not only brings expertise in programming and development but also possesses a deep understanding of testing processes and methodologies. This unique combination allows them to facilitate communication between development and testing teams, streamline workflows, and ensure that quality is built into the product from the very beginning. By examining the responsibilities, skills, and strategies of SDETs, we can uncover how they play a pivotal role in enhancing collaboration and efficiency throughout the software development lifecycle.

@@ -1,0 +1,7 @@
+---
+layout: post
+title: "How to Measure ROI of Test Automation"
+date: 2023-11-20
+---
+
+In the fast paced world of software development, organizations are increasingly turning to test automation to enhance efficiency and improve product quality. However, as the adoption of automated testing grows, so does the need to assess its financial impact and overall effectiveness. Measuring the return on investment, or ROI, of test automation is crucial for decision makers to understand the value it brings to their teams and projects. This article will explore various methodologies and key performance indicators that can be employed to evaluate the ROI of test automation, helping businesses make informed choices about their testing strategies.

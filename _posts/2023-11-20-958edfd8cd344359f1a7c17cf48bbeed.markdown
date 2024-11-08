@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Building a Career Path from QA to SDET"
+date: 2023-11-20
+---
+
+In the ever evolving landscape of software development, the transition from Quality Assurance to Software Development Engineer in Test presents an exciting opportunity for individuals seeking to advance their careers. As organizations increasingly prioritize quality and efficiency in their products, the demand for skilled professionals who can bridge the gap between testing and development continues to grow. This article explores the essential skills, best practices, and strategic steps to successfully navigate the journey from a QA role to becoming a proficient SDET, empowering professionals to enhance their technical expertise while contributing to innovative software solutions.

@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Introduction to Browser Automation with Playwright"
+date: 2023-11-20
+---
+
+In the world of web development and testing, browser automation has become an essential tool for many developers and quality assurance professionals. Playwright is a modern open source automation library that provides a powerful and flexible way to interact with web applications across different browsers. With its ability to support multiple programming languages and its user friendly API, Playwright enables developers to perform end to end testing, simulate user interactions, and scrape data efficiently. This article will introduce you to the basics of browser automation with Playwright and guide you through the process of setting up your first automated tests.

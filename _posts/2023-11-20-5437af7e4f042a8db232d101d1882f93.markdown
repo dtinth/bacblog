@@ -1,0 +1,7 @@
+---
+layout: post
+title: "The Role of SDETs in Cloud-Native Development"
+date: 2023-11-20
+---
+
+In the rapidly evolving landscape of software development, cloud native technologies have emerged as a cornerstone for building scalable and resilient applications. As organizations increasingly adopt this paradigm, the demand for skilled professionals who can ensure the quality and performance of these applications becomes paramount. Software Development Engineers in Test, or SDETs, play a crucial role in this process by bridging the gap between development and quality assurance. Their expertise not only enhances the testing processes but also fosters collaboration within cross functional teams to streamline workflows. This article delves into the vital contributions of SDETs in cloud native development, exploring their responsibilities, skills, and the impact they have on delivering robust software solutions.

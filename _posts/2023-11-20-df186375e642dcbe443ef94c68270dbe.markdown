@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Continuous Integration and Continuous Delivery for SDETs"
+date: 2023-11-20
+---
+
+In the rapidly evolving landscape of software development and testing, Continuous Integration and Continuous Delivery have emerged as fundamental practices that empower Software Development Engineers in Test to enhance their workflows and improve software quality. This article aims to explore how SDETs can leverage these methodologies to automate their testing processes, streamline collaboration between development and operations teams, and ensure that high quality code is delivered to production environments efficiently. By embracing Continuous Integration and Continuous Delivery, SDETs can not only enhance their own productivity but also contribute significantly to the overall success of the software development lifecycle.

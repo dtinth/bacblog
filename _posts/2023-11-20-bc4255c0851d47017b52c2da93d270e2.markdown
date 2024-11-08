@@ -1,0 +1,7 @@
+---
+layout: post
+title: "The Impact of Low-Code/No-Code on QA and Testing"
+date: 2023-11-20
+---
+
+The rise of low code and no code development platforms is revolutionizing the way software is built, enabling a wider range of individuals to create applications without extensive programming knowledge. This shift not only accelerates the development lifecycle but also brings significant changes to the quality assurance and testing processes. As traditional roles evolve and new tools emerge, it is essential to explore how these platforms influence the methodologies of testing, the responsibilities of QA professionals, and the overall quality of the software produced. By examining the implications and benefits of low code and no code on QA and testing, we can better understand the future landscape of software development.

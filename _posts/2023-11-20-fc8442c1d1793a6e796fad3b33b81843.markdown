@@ -1,0 +1,7 @@
+---
+layout: post
+title: "How to Transition from Manual QA to SDET"
+date: 2023-11-20
+---
+
+As the tech industry continually evolves, quality assurance roles are undergoing significant transformation. For manual quality assurance professionals looking to enhance their careers, transitioning to a Software Development Engineer in Test can open up new opportunities and challenges. This shift requires not only mastering new skills but also embracing a different mindset towards testing and software development. In this article, we will explore practical steps and strategies to navigate the transition successfully, equipping you with the knowledge needed to thrive in this dynamic field.
