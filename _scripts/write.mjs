@@ -19,7 +19,7 @@ async function generateIntro(title) {
         ],
       },
     ],
-    temperature: 0,
+    temperature: 1,
     max_tokens: 2048,
     top_p: 1,
     frequency_penalty: 0,
@@ -51,7 +51,7 @@ async function generateIntro(title) {
 
 import crypto from "crypto";
 const lines = fs
-  .readFileSync("scripts/list.tsv", "utf8")
+  .readFileSync("_scripts/list.tsv", "utf8")
   .split("\n")
   .map((x) => x.trim())
   .filter((x) => x);
@@ -64,6 +64,13 @@ for (const title of lines) {
     .slice(0, 32);
   const file = `_posts/2023-11-20-${hash}.markdown`;
   if (fs.existsSync(file)) {
+    const intro = fs
+      .readFileSync(file, "utf8")
+      .split("---")
+      .pop()
+      .trim()
+      .split(" ").length;
+    console.log([title, intro].join("\t"));
     continue;
   }
   console.log(file, title);

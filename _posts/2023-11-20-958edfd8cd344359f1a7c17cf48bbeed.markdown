@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Building a Career Path from QA to SDET"
+title: "Automated Testing for Microservices Architecture"
 date: 2023-11-20
 ---
 
