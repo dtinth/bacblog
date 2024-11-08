@@ -21,7 +21,7 @@
 title: bacblog
 description: >- # this means to ignore newlines until "baseurl:"
   Demo blog for browser automation challenges
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/bacblog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username: jekyll
